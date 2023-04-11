@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins. This is the fork for user crownedcarpenter-09077711235 
 </p>
 
 ## 🌟 Preview
